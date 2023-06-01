@@ -8,5 +8,4 @@
 *Node JS
 *Express JS
 *Angular Js
--Python
--Ruby on Rails
+*Vue JS
